@@ -11,5 +11,7 @@
 
 Результат работы программы представлен в скриншоте:
 
-![lab-05_init_function](init_function.png)
 ![lab-05_result_approximation](result.png)
+
+c = 3.0
+d = 1.187284279798289
